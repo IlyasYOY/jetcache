@@ -38,6 +38,11 @@
         </dependency>
         <dependency>
             <groupId>com.alicp.jetcache</groupId>
+            <artifactId>jetcache-hazelcast</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alicp.jetcache</groupId>
             <artifactId>jetcache-redis-lettuce</artifactId>
             <version>${project.version}</version>
         </dependency>

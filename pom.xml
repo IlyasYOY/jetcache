@@ -183,6 +183,7 @@
         <module>jetcache-anno-api</module>
         <module>jetcache-test</module>
 
+        <module>jetcache-support/jetcache-hazelcast</module>
         <module>jetcache-support/jetcache-redis</module>
         <module>jetcache-support/jetcache-redis-lettuce</module>
         <module>jetcache-support/jetcache-redis-springdata</module>
@@ -203,6 +204,7 @@
         <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
         <lettuce.version>5.2.2.RELEASE</lettuce.version>
         <jedis.version>3.1.0</jedis.version>
+        <hazelcast.version>4.0.3</hazelcast.version>
 
         <!--
         <spring.framework.version>5.1.6.RELEASE</spring.framework.version>
